@@ -1,0 +1,66 @@
+body {
+	background-image: url(img/venom2.png);
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+    background-color: black;
+}
+/*Navigation Bar*/
+.nav a {
+  color: white;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  margin: auto;
+  float: right ;
+}
+.container h1 {
+	font-family: 'Lobster', cursive, serif;
+	background-image: url('img/marvelvillian.png');
+	background-position: center;
+	background-color: #000000;
+	color: #996600;
+	font-size: 75px;
+	height: auto;
+	border: ridge 10px ;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 275px;
+    margin-left: 275px;
+	padding-top: 25px;
+    padding-right: 30px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    opacity: 0.8;
+    text-align: center;
+
+}
+.container p {
+	background-image: url('img/doom.png');
+	background-position: center;
+	border: outset 10px #669900;
+	font-family: 'Fjalla One', sans-serif;
+	background-color: #666666 ;
+	font-weight: bold;
+	font-size: 50px;
+	color: #999999;
+	text-align: center;
+	margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 250px;
+    margin-left: 250px;
+	padding-top: 35px;
+    padding-right: 45px;
+    padding-bottom: 35px;
+    padding-left: 45px;
+    opacity: 0.8;
+}
+.mysterio img {
+	background-position: center;
+	width: 442px;
+    height: 350px;
+    box-shadow: 10px 10px 50px white;
+    margin-left: 40px;
+}
+
